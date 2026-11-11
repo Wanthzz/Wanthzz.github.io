@@ -1,6 +1,6 @@
 ---
 title: 'hello-pknu'
-date: 2199-01-01
+date: 2026-11-10
 permalink: /posts/2026/11/hello-pknu/
 tags:
   - cool posts
